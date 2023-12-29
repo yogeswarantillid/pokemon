@@ -31,6 +31,7 @@ body{
     align-items: center;
     justify-content: space-between;
     box-sizing: border-box;
+    flex-direction: column;
 }
 .right-content{
     width: 50%;
